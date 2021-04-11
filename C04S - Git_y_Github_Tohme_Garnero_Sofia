@@ -1,0 +1,15 @@
+C04S - Mochila del viajero
+
+Responder el siguiente cuestionario:
+
+1- ¿Quién inventó el sistema de control de versión y por qué?
+
+Git es un sistema de control de versiones distribuido que fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+
+2- ¿A quién pertenece actualmente GitHub y por qué?
+
+En 2018 Microsoft adquiere GitHub, siendo su actual propietario. Microsoft reconoció y se rindió ante la realidad de que la combinación de Git + GitHub era imbatible y había sido la elegida por la comunidad para gestionar el código, entoces, aprovechando las vicisitudes financieras por las que pasaba GitHub, estratégicamente se adelantó para evitar que pudiera ser adquirida por competidores de la talla de Google u Oracle
+
+3- ¿Hay otra forma que no sea la terminal para trabajar con GitHub?
+
+La terminal no es la única forma de utilizar Git, sino que existe una gran variedad de interfaces gráficas, como GitHub Desktop, para utilizar Git, con distintas capacidades. Sin embargo, la línea de comandos es el único lugar donde se puede ejecutar todos los comandos de Git, dado que la mayoría de interfaces gráficas de usuario solo implementan una parte de las características de Git, para que resulten más simples.
